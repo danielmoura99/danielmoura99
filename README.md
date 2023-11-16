@@ -64,6 +64,6 @@
 	-->
 	<a href="https://github.com/danielmoura99" target="_blank"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/github.png" width="30">
 	</a>
-	<a href="https://medium.com/@brunocampos01" target="_blank"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/medium.png" width="30">
+	<a href="https://www.instagram.com/daniel.mouraa" target="_blank"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_insta.png" width="30">
 	</a>
 </p>
