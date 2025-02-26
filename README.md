@@ -25,7 +25,7 @@
 
 ### <a href="#"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_open-source.png"/></a> My Projects
 <details>
-  <summary><b> <a href="#"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_test-tube.png"/></a> In construction ...</b></summary>
+  <summary><b> <a href="https://github.com/danielmoura99/trader-evaluation"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_test-tube.png"/></a> Plataforma de Gestão de Clientes.</b></summary>
   <table>
     <thead align="center">
 	    
