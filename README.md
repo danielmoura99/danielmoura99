@@ -2,28 +2,27 @@
   
   # Daniel Moura! 👋
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-moura-334609128/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsmouraa@icloud.com)
   
-  **`Desenvolvedor Full Stack`**
+  **`Gestor de Projetos e Desenvolvedor Full Stack`**
 </div>
 
 ## 👨‍💻 Sobre Mim
 
 ```javascript
-const developer = {
+const aboutme = {
   name: "Daniel Moura",
-  title: "Desenvolvedor Full Stack",
+  title: "Gestor de Projetos/Produtos e Desenvolvedor Full Stack",
   location: "São Paulo, Brasil",
   education: "Bacharel em Engenharia da Computação",
   skills: {
     languages: ["JavaScript", "TypeScript", "Python", "Java"],
     frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Prisma", "Django"],
+    backend: ["Node.js", "Prisma", "Django"],
     database: ["PostgreSQL", "MongoDB", "MySQL"],
     devOps: ["Docker", "Git", "CI/CD"],
-    others: ["RESTful APIs", "GraphQL", "Agile Methodologies"]
+    others: ["RESTful APIs", "Agile Methodologies"]
   },
   currentlyLearning: ["AWS", "React Native", "Kubernetes"],
   funFact: "Escreva um fato divertido sobre você!"
