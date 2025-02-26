@@ -35,16 +35,16 @@ const developer = {
 
 <div align="center">
   <a href="https://github.com/danielmoura99/client-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=projeto-1&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=client-portal&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
   </a>
   <a href="https://github.com/danielmoura99/trader-evaluation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=projeto-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=trader-evaluation&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/danielmoura99/book-fair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=projeto-3&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=book-fair&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
   </a>
   <a href="https://github.com/seu-usuario/projeto-4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-4&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
@@ -86,7 +86,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielmoura99&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=danielmoura99&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Certificações & Conquistas
@@ -112,5 +112,5 @@ const developer = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=danielmoura99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  <p>⭐️ De <a href="https://github.com/seu-usuario">Daniel Moura</a></p>
+  <p>⭐️ De <a href="https://github.com/danielmoura99">Daniel Moura</a></p>
 </div>
