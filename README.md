@@ -1,69 +1,122 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danielmoura99.visitor-badgee&color=green&style=flat-square">
+<div align="center">
+  <img src="https://github.com/seu-usuario/seu-usuario/blob/main/assets/github-header-image.png" alt="Banner" width="100%">
   
+  # Olá, sou o Daniel Moura! 👋
 
-## Hello, I'm Daniel Moura 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+  
+  ### Desenvolvedor Full Stack apaixonado por criar soluções que transformam negócios e vidas.
+</div>
 
-<p align="left">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=1000&color=000000&random=false&width=435&lines=STUDY+IS+THE+LIGHT+OF+LIFE;BUSINESSMAN+FOR+6+YEARS;ASPIRING+DATA+SCIENTIST" alt="Typing SVG" /></a>
-</p>
+## 👨‍💻 Sobre Mim
 
-<details>	
-  <summary><a href="#"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_github.png"/></a><b> Github Profile Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmoura99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoura99&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
-  <br/>
-</details>
+```javascript
+const developer = {
+  name: "Daniel Moura",
+  title: "Desenvolvedor Full Stack",
+  location: "São Paulo, Brasil",
+  education: "Bacharel em Engenharia da Computação",
+  skills: {
+    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Prisma", "Django"],
+    database: ["PostgreSQL", "MongoDB", "MySQL"],
+    devOps: ["Docker", "Git", "CI/CD"],
+    others: ["RESTful APIs", "GraphQL", "Agile Methodologies"]
+  },
+  currentlyLearning: ["AWS", "React Native", "Kubernetes"],
+  funFact: "Escreva um fato divertido sobre você!"
+};
+```
 
-<!-- 
-<details>	
-<summary><a href="#"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
-<img src="https://activity-graph.herokuapp.com/graph?username=danielmoura99&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</details>
--->
+## 🚀 Meus Projetos Destacados
 
-<br/>
+<div align="center">
+  <a href="https://github.com/seu-usuario/projeto-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-1&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="https://github.com/seu-usuario/projeto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
-### <a href="#"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_open-source.png"/></a> My Projects
-<details>
-  <summary><b> <a href="https://github.com/danielmoura99/trader-evaluation"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_test-tube.png"/></a> Plataforma de Gestão de Clientes.</b></summary>
-  <table>
-    <thead align="center">
-	    
-  </table>
-  <br />
-</details>
+<div align="center">
+  <a href="https://github.com/seu-usuario/projeto-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-3&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="https://github.com/seu-usuario/projeto-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-4&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
-<!-- 
-<details>		
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-  	    <li><b>Browser: </b> Brave</li>
-	    <li><b>Terminal: </b> Bash: Oh My Bash</li>
-	    <li><b>Code Editor:</b> VSCode + Pycharm</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My Personal Configrations <a href="https://github.com/brunocampos01/home-sweet-home">Here</a>.
-	</ul>	
-</details> -->
+## 🛠️ Tecnologias & Ferramentas
 
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
 
-<!-- <h4 align="center">
-  <a href="https://github.com/brunocampos01?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
- -->
- 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielmoura99&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoura99&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="200" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielmoura99&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+</div>
+
+## 🏆 Certificações & Conquistas
+
+- Nome da Certificação (Instituição, Ano)
+- Nome da Certificação (Instituição, Ano)
+- Nome da Certificação (Instituição, Ano)
+
+## 🌱 Atualmente Aprendendo
+
+- AWS Cloud Services
+- React Native
+- Kubernetes
+
+## 💼 Experiência Profissional
+
+- **Empresa Atual** - Cargo Atual (Período)
+- **Empresa Anterior** - Cargo Anterior (Período)
+- **Primeira Empresa** - Primeiro Cargo (Período)
+
+## 📫 Como me encontrar
+
+- LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil/)
+- Email: [seu-email@gmail.com](mailto:seu-email@gmail.com)
+- Site: [seu-portfolio.com](https://seu-portfolio.com)
+
 ---
 
-<p  align="center">
-	<a href="mailto:dsmouraa@icloud.com" target="_blank"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/email.png" width="30">
-	</a>
-	<!--
-	<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/linkedin.png" width="30">
-	</a>
-	-->
-	<a href="https://github.com/danielmoura99" target="_blank"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/github.png" width="30">
-	</a>
-	<a href="https://www.instagram.com/daniel.mouraa" target="_blank"><img src="https://github.com/danielmoura99/danielmoura99/blob/main/imagens/icon_insta.png" width="30">
-	</a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <p>⭐️ De <a href="https://github.com/seu-usuario">Seu Nome</a></p>
+</div>
