@@ -34,17 +34,17 @@ const developer = {
 ## 🚀 Meus Projetos Destacados
 
 <div align="center">
-  <a href="https://github.com/seu-usuario/projeto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-1&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/danielmoura99/client-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=projeto-1&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="https://github.com/seu-usuario/projeto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/danielmoura99/trader-evaluation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=projeto-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/seu-usuario/projeto-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-3&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/danielmoura99/book-fair">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=projeto-3&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
   </a>
   <a href="https://github.com/seu-usuario/projeto-4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-4&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
@@ -95,12 +95,6 @@ const developer = {
 - Nome da Certificação (Instituição, Ano)
 - Nome da Certificação (Instituição, Ano)
 
-## 🌱 Atualmente Aprendendo
-
-- AWS Cloud Services
-- React Native
-- Kubernetes
-
 ## 💼 Experiência Profissional
 
 - **Empresa Atual** - Cargo Atual (Período)
@@ -116,7 +110,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=danielmoura99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  <p>⭐️ De <a href="https://github.com/seu-usuario">Seu Nome</a></p>
+  <p>⭐️ De <a href="https://github.com/seu-usuario">Daniel Moura</a></p>
 </div>
