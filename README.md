@@ -25,7 +25,6 @@ const aboutme = {
     others: ["RESTful APIs", "Agile Methodologies"]
   },
   currentlyLearning: ["AWS", "React Native", "Kubernetes"],
-  funFact: "Escreva um fato divertido sobre você!"
 };
 ```
 
