@@ -66,8 +66,8 @@ const aboutme = {
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [linkedin.com/in/seu-perfil]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/daniel-moura-334609128/))
-- Email: [seu-email@gmail.com](mailto:dsmouraa@icloud.com)
+- LinkedIn: [Daniel Moura](https://www.linkedin.com/in/daniel-moura-334609128/)
+- Email: dsmouraa@ilcoud.com 
 
 ---
 
