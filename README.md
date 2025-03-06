@@ -5,17 +5,17 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-moura-334609128/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsmouraa@icloud.com)
   
-  **`Gestor de Projetos e Desenvolvedor Full Stack`**
+  **`Project Manager and Full Stack Developer`**
 </div>
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
 ```javascript
 const aboutme = {
   name: "Daniel Moura",
-  title: "Gestor de Projetos/Produtos e Desenvolvedor Full Stack",
-  location: "São Paulo, Brasil",
-  education: "Bacharel em Engenharia da Computação",
+  title: "Project/Product Manager and Full Stack Developer",
+  location: "São Paulo, Brazil",
+  education: "Bachelor in Computer Engineering",
   skills: {
     languages: ["JavaScript", "TypeScript", "Python", "Java"],
     frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
@@ -28,24 +28,11 @@ const aboutme = {
 };
 ```
 
-## 🚀 Meus Projetos Destacados
+## 🚀 My Featured Projects
 
-<div align="center">
-  <a href="https://github.com/danielmoura99/client-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=client-portal&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="https://github.com/danielmoura99/trader-evaluation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=trader-evaluation&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+<div align="center"> <a href="https://github.com/danielmoura99/client-portal"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=client-portal&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" /> </a> <a href="https://github.com/danielmoura99/trader-evaluation"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=trader-evaluation&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" /> </a> </div> <div align="center"> <a href="https://github.com/danielmoura99/book-fair"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=book-fair&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" /> </a> </div>
 
-<div align="center">
-  <a href="https://github.com/danielmoura99/book-fair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmoura99&repo=book-fair&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
   
@@ -71,13 +58,13 @@ const aboutme = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoura99&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="200" />
 </div>
 
-## 🏆 Ganhos Notáveis
+## 🏆 Notable Achievements
 
-- Projeto trade-evaluation: Aumento de 60% de produtividade através desenvolvimento automação e integrações via API, eliminando trabalhos manuais.
-- Projeto paystep: Desenvolvimento e implementação de um gateway de pagamento, gerando 12% de aumento na margem de lucro e redução de custo de transação de 6,5% para 3,5%.
-- Porjeto client-portal: Desenvolvimento e implementação de um portal do cliente, otimizando a interface empresa e cliente. 
+- Trade-evaluation project: Increased productivity by 60% through developing automation and API integrations, eliminating manual tasks.
+- Paystep project: Developed and implemented a payment gateway, generating a 12% increase in profit margin and reducing transaction costs from 6.5% to 3.5%.
+- Client-portal project: Developed and implemented a client portal, optimizing the interface between the company and its clients.
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 
 - LinkedIn: [linkedin.com/in/seu-perfil]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/daniel-moura-334609128/))
 - Email: [seu-email@gmail.com](mailto:dsmouraa@icloud.com)
@@ -87,5 +74,5 @@ const aboutme = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=danielmoura99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  <p>Desenvolvido por <a href="https://github.com/danielmoura99">Daniel Moura</a></p>
+  <p>Developed by <a href="https://github.com/danielmoura99">Daniel Moura</a></p>
 </div>
